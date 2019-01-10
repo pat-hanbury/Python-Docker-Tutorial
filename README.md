@@ -1,5 +1,5 @@
 # Python-Docker-Tutorial
-Intro Tutorial for ["How to Launch Docker Containers with the Official Python Library"](medium.com).
+Intro Tutorial for ["How to Launch Docker Containers with the Official Python Library"](https://www.medium.com).
 
 ## How to Use this Repo
 The IPython notebook `dockerize.ipynb` is intended to server as a standalone example. After _pip_ installing the requirements, you should be able to run all the cells of the notebook and launch the example _Django To Do_ app.
